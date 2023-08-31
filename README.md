@@ -22,7 +22,7 @@
 
 - <b>Love for Games and Code: My love for video games actually motivated me to learn programming. I hope to someday code my own game.<b>
 - <b>Polyglot: In addition to coding, I also teach English to French students. It's like coding with words.<b>
-- <b>Fashion Geek: I associate each development project with a specific dish. It's like programming has its own flavor.<b>
+- <b>Fashion Geek: My fashion style evolves as much as the programming languages I learn. Who says geeks can't be stylish?<b>
 
 <h2>🤳 Connect with me:</h2>
 
