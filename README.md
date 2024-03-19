@@ -27,4 +27,4 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/justine-clément)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/justine-clément)
