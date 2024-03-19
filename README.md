@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- [Here's a link to all my projects done with school]((https://github.com/Justinecle?tab=repositories))
+- [Here's a link to all my projects done with school](https://github.com/Justinecle?tab=repositories)
  
 <h2>⚡ Fun fact:</h2>
 
