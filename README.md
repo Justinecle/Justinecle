@@ -2,14 +2,15 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
-- <b>Programming in C#, JavaScript, Java, Php<b>
+- <b>Programming in C#, JavaScript, Java, JavaEE, Php<b>
 - <b>Utilization of HTML, CSS, Bootstrap, etc.<b>
 - <b>Creating websites on WordPress<b>
-- <b>Use of React, Node.js<b>
-- <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, and Workbench, etc.<b>
+- <b>Use of React, Node.js, TomCat, Hibernate, JDBC, ASP.NET<b>
+- <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, Workbench, IntelliJ, Android Studio, etc.<b>
 - <b>Database Management, SQL<b>
 - <b>Working on Mac, Windows, Ubuntu machine<b>
 - <b>Developing both server-side and client-side websites<b>
+- <b>Developing API REST WEB in JAX-RS and ASP.NET<b>
 - <b>XML Technologies<b>
 - <b>Web Development Tools<b>
 - <b>Additional Courses: Communication, Analysis and Project Management, English, French, Integration into the Job Market<b>
