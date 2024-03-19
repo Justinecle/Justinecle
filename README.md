@@ -6,7 +6,7 @@
 - <b>Utilization of HTML, CSS, Bootstrap, etc.<b>
 - <b>Creating websites on WordPress<b>
 - <b>Use of React, Node.js, TomCat, Hibernate, JDBC, ASP.NET<b>
-- <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, Workbench, IntelliJ, Android Studio, etc.<b>
+- <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, Workbench, IntelliJ, Android Studio, Postman etc.<b>
 - <b>Database Management, SQL<b>
 - <b>Working on Mac, Windows, Ubuntu machine<b>
 - <b>Developing both server-side and client-side websites<b>
