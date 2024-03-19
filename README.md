@@ -4,7 +4,7 @@
 
 - <b>Programming in C#, JavaScript, Java, JavaEE, Php<b>
 - <b>Utilization of HTML, CSS, Bootstrap, etc.<b>
-- <b>Creating websites on WordPress<b>
+- <b>Creating websites on WordPress and Sharepoint<b>
 - <b>Use of React, Node.js, TomCat, Hibernate, JDBC, ASP.NET<b>
 - <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, Workbench, IntelliJ, Android Studio, Postman etc.<b>
 - <b>Database Management, SQL<b>
