@@ -1,6 +1,6 @@
-<h1>Hi, I'm Justine! <br/><a href="https://github.com/Justinecle">Web Programming Student.</a>
+<h1>Hi, I'm Justine! <br/><a href="https://github.com/Justinecle">Web Developer.</a>
   
-<h2>🌱 I’m currently learning:</h2>
+<h2>🌱 I’m currently working or learning :</h2>
 
 - <b>Programming in C#, JavaScript, Java, JavaEE, Php<b>
 - <b>Utilization of HTML, CSS, Bootstrap, etc.<b>
@@ -13,7 +13,7 @@
 - <b>Developing API REST WEB in JAX-RS and ASP.NET<b>
 - <b>XML Technologies<b>
 - <b>Web Development Tools<b>
-- <b>Additional Courses: Communication, Analysis and Project Management, English, French, Integration into the Job Market<b>
+- <b>Additional Courses: Communication, Analysis and Project Management, English, French, Integration into the Job Market, Agile Method, Office 365<b>
 
 <h2>👨‍💻 My Projects:</h2>
 
