@@ -2,8 +2,9 @@
   
 <h2>🌱 I’m currently working or learning :</h2>
 
-- <b>Programming in C#, JavaScript, Java, JavaEE, Php<b>
+- <b>Programming in C#, JavaScript, Java, JavaEE, Php, Python<b>
 - <b>Utilization of HTML, CSS, Bootstrap, etc.<b>
+- <b>DevOps & SRE: Linux, CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, Terraform.<b>
 - <b>Creating websites on WordPress and Sharepoint<b>
 - <b>Use of React, Node.js, TomCat, Hibernate, JDBC, ASP.NET<b>
 - <b>Utilization of Visual Studio, VS Code, Eclipse, RUN JS, SQL Server, Workbench, IntelliJ, Android Studio, Postman etc.<b>
